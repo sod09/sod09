@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I made a decision a year ago to pivor my career path and become a dev. 
+I made a decision a year ago to pivot my career path and become a dev. 
 Here on my GitHub you will find everthing I've been working on and learning. 
 
 </br>
