@@ -31,4 +31,4 @@ You can find my Portfolio [here](https://sod09.github.io/sod_nology_portfolio/).
 
 🔭 I’m currently working on my React Cat Fact Generator. 
 
-📫 Please get in touch if you'd like to learn more! You can reach me on thisgirlwillcode@gnail.com
+📫 Please get in touch if you'd like to learn more! You can reach me on thisgirlwillcode@gmail.com
