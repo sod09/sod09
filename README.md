@@ -3,6 +3,10 @@
 I made a decision a year ago to pivot my career path and become a dev. 
 Here on my GitHub you will find everthing I've been working on and learning. 
 
+I am currently learning ReactJS and working on projects. They will be added to my portfolio soon. 
+
+🔭 I’m currently working on a React Cat Fact Generator. Using an API and useState to display the facts.
+
 </br>
 
 🌱 I am a Junior Developer currently learning the following technologies;
@@ -29,6 +33,6 @@ You can find my Portfolio [here](https://sod09.github.io/sod_nology_portfolio/).
 </br>
 [Calculator](https://sod09.github.io/nology_calculator/)
 
-🔭 I’m currently working on my React Cat Fact Generator. 
+
 
 📫 Please get in touch if you'd like to learn more! You can reach me on thisgirlwillcode@gmail.com
