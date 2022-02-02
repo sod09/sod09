@@ -23,8 +23,8 @@ You can find my Portfolio [here](https://sod09.github.io/sod_nology_portfolio/).
 
 <h3> Here are some of the projects I have been working on....</h3>
 
-[ReactJS Cat Generator](https://sod09.github.io/react-cat-fact-generator/)
-</br>
+<!-- [ReactJS Cat Generator](https://sod09.github.io/react-cat-fact-generator/)
+</br> -->
 [Turn that frown upside down!](https://sod09.github.io/javascript-smiles-game/)
 </br>
 [The Memory Game](https://sod09.github.io/nology_javascript_game/)
