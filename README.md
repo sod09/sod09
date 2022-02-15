@@ -19,7 +19,7 @@ You can find my Portfolio [here](https://sod09.github.io/sod_nology_portfolio/).
 
 <h3> Here are some of the projects I have been working on....</h3>
 
-[ReactJS PUNK API Beer Database]https://sod09.github.io/react-punk-api-app/)
+[ReactJS PUNK API Beer Database](https://sod09.github.io/react-punk-api-app/)
 </br>
 [Turn that frown upside down!](https://sod09.github.io/javascript-smiles-game/)
 </br>
