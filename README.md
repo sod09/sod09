@@ -3,12 +3,6 @@
 I made a decision a year ago to pivot my career path and join the tech world! 
 Here on my GitHub you will find everthing I've been working on and learning. 
 
-I am currently learning ReactJS. 
-
-HEre is a project just completed 
-
-
-
 </br>
 
 🌱 I am a Junior Developer currently learning the following technologies;
@@ -17,7 +11,7 @@ HEre is a project just completed
 <li>Javascript</li>
 <li>Semantic HTML</li>
 <li>CSS/SCSS</li>
-<li>Javascript</li>
+<li>Jest, Enzyme, Cypress</li>
 
 </br>
 
